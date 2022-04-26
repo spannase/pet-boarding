@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "name": "shreya",
+      "city": "nagpur",
+      "address": "nagpur",
+      "capacity": "13",
+      "cost": "1000",
+      "varified": "yes",
+      "ratings": "4.0",
+      "about": "you leave em we love them",
+      "facility": "The place your pet will be if they are left unsupervised at home.",
+      "walks": "4",
+      "size": "25",
+      "transport": "yes",
+      "types": "AA",
+      "id": 1
+    },
+    {
+      "name": "manali",
+      "city": "asdd",
+      "address": "bangalore",
+      "capacity": "23",
+      "cost": "3000",
+      "varified": "yes",
+      "ratings": "3.3",
+      "about": "you leave em we love them",
+      "facility": "The place your pet will be if they are left unsupervised at home.",
+      "walks": "60",
+      "size": "37",
+      "transport": "yes",
+      "types": "BB",
+      "id": 2
+    },
+    {
+      "name": "shre",
+      "city": "sdkd",
+      "address": "pune",
+      "capacity": "23",
+      "cost": "2200",
+      "varified": "no",
+      "ratings": "4.5",
+      "about": "you leave em we love them",
+      "facility": "you leave em we love them",
+      "walks": "4",
+      "size": "50",
+      "transport": "no",
+      "types": "dosrets",
+      "id": 3
+    }
+  ]
+}
